@@ -171,7 +171,7 @@ Check current pricing at https://openai.com/api/pricing/
 
 ## License
 
-MIT License - feel free to modify and use as needed!
+GPL V3
 
 ## Contributing
 
