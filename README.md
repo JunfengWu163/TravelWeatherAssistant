@@ -2,6 +2,8 @@
 
 An intelligent travel assistant powered by OpenAI's ChatGPT that analyzes your travel plans with real-time weather forecasts to provide personalized recommendations, packing lists, and risk assessments.
 
+A video tutorial about this project can be found at https://youtu.be/Ae_jlEQ7l40
+
 ## Features
 
 - 🤖 **AI-Powered Analysis**: Uses OpenAI's ChatGPT to understand your travel plans
